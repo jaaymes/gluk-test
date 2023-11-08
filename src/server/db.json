@@ -1,0 +1,396 @@
+{
+  "products": [
+    {
+      "id": 9,
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "stock": 96,
+      "brand": "Infinix",
+      "category": "laptops",
+      "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+    },
+    {
+      "id": 11,
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "stock": 65,
+      "brand": "Impression of Acqua Di Gio",
+      "category": "fragrances",
+      "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Brown Perfume",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "stock": 52,
+      "brand": "Royal_Mirage",
+      "category": "fragrances",
+      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "stock": 61,
+      "brand": "Fog Scent Xpressio",
+      "category": "fragrances",
+      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+    },
+    {
+      "id": 14,
+      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "stock": 114,
+      "brand": "Al Munakh",
+      "category": "fragrances",
+      "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "category": "fragrances",
+      "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Hyaluronic Acid Serum",
+      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "stock": 110,
+      "brand": "L'Oreal Paris",
+      "category": "skincare",
+      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Tree Oil 30ml",
+      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "stock": 78,
+      "brand": "Hemani Tea",
+      "category": "skincare",
+      "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Oil Free Moisturizer 100ml",
+      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "stock": 88,
+      "brand": "Dermive",
+      "category": "skincare",
+      "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Skin Beauty Serum.",
+      "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+      "price": 46,
+      "discountPercentage": 10.68,
+      "stock": 54,
+      "brand": "ROREC White Rice",
+      "category": "skincare",
+      "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Freckle Treatment Cream- 15gm",
+      "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+      "price": 70,
+      "discountPercentage": 16.99,
+      "stock": 140,
+      "brand": "Fair & Clear",
+      "category": "skincare",
+      "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+    },
+    {
+      "id": 21,
+      "title": "- Daal Masoor 500 grams",
+      "description": "Fine quality Branded Product Keep in a cool and dry place",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "stock": 133,
+      "brand": "Saaf & Khaas",
+      "category": "groceries",
+      "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png"
+    },
+    {
+      "id": 22,
+      "title": "Elbow Macaroni - 400 gm",
+      "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "stock": 146,
+      "brand": "Bake Parlor Big",
+      "category": "groceries",
+      "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Orange Essence Food Flavou",
+      "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "stock": 26,
+      "brand": "Baking Food Items",
+      "category": "groceries",
+      "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+    },
+    {
+      "id": 24,
+      "title": "cereals muesli fruit nuts",
+      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "stock": 113,
+      "brand": "fauji",
+      "category": "groceries",
+      "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Gulab Powder 50 Gram",
+      "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "stock": 47,
+      "brand": "Dry Rose",
+      "category": "groceries",
+      "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Plant Hanger For Home",
+      "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "stock": 131,
+      "brand": "Boho Decor",
+      "category": "home-decoration",
+      "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Flying Wooden Bird",
+      "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+      "price": 51,
+      "discountPercentage": 15.58,
+      "stock": 17,
+      "brand": "Flying Wooden",
+      "category": "home-decoration",
+      "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp"
+    },
+    {
+      "id": 28,
+      "title": "3D Embellishment Art Lamp",
+      "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+      "price": 20,
+      "discountPercentage": 16.49,
+      "stock": 54,
+      "brand": "LED Lights",
+      "category": "home-decoration",
+      "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Handcraft Chinese style",
+      "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+      "price": 60,
+      "discountPercentage": 15.34,
+      "stock": 7,
+      "brand": "luxury palace",
+      "category": "home-decoration",
+      "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp"
+    },
+    {
+      "id": 30,
+      "title": "Key Holder",
+      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "stock": 54,
+      "brand": "Golden",
+      "category": "home-decoration",
+      "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+    },
+    {
+      "title": "HeadFone",
+      "price": 123,
+      "category": "home-decoration",
+      "description": "teste",
+      "thumbnail": "https://usa.1more.com/cdn/shop/files/sonoflow-black.webp?v=1699324319",
+      "discountPercentage": 12,
+      "stock": 12,
+      "id": 31
+    }
+  ],
+  "users": [
+    {
+      "name": "Terry Jery",
+      "gender": "male",
+      "age": 23,
+      "email": "atuny0@sohu.com",
+      "birthDate": "2000-12-05",
+      "phone": "+63 791 675 8914",
+      "image": "https://robohash.org/hicveldicta.png",
+      "address": {
+        "zipcode": "16050590",
+        "streetName": "Rua Anselmo Manarelli",
+        "district": "Santana",
+        "number": "123",
+        "city": "Araçatuba",
+        "state": "SP",
+        "complement": "123"
+      },
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Sheldon Coopper",
+      "age": 28,
+      "gender": "male",
+      "email": "hbingley1@plala.or.jp",
+      "phone": "+7 813 117 7139",
+      "birthDate": "2003-08-02",
+      "image": "https://robohash.org/doloremquesintcorrupti.png",
+      "address": {
+        "streetName": "6007 Applegate Lane",
+        "city": "Louisville",
+        "zipcode": "40219",
+        "state": "KY",
+        "complement": "Apt 3"
+      }
+    },
+    {
+      "name": "Jaymes Costa",
+      "gender": "male",
+      "age": 33,
+      "email": "jireloc236@mainmile.com",
+      "birthDate": "1990-09-05",
+      "phone": "12312312312",
+      "image": "https://i.pravatar.cc/300",
+      "address": {
+        "zipcode": "16057-205",
+        "streetName": "Rua Presidente João Goulart",
+        "district": "Vila Alba",
+        "number": "123",
+        "city": "Araçatuba",
+        "state": "SP",
+        "complement": "123"
+      },
+      "id": 3
+    }
+  ],
+  "carts": [
+    {
+      "userId": 1,
+      "total": 1129,
+      "totalProducts": 5,
+      "discountedTotal": 9.52e-14,
+      "status": "cancelled",
+      "products": [
+        {
+          "id": 45,
+          "quantity": 1,
+          "price": 50,
+          "title": "Malai Maxi Dress",
+          "total": 50,
+          "discountPercentage": 5.07,
+          "discountedPrice": 47
+        },
+        {
+          "id": 83,
+          "quantity": 3,
+          "price": 30,
+          "title": "Wiley X Night Vision Yellow Glasses",
+          "total": 90,
+          "discountPercentage": 6.33,
+          "discountedPrice": 84
+        },
+        {
+          "id": 96,
+          "quantity": 1,
+          "price": 30,
+          "title": "lighting ceiling kitchen",
+          "total": 30,
+          "discountPercentage": 14.89,
+          "discountedPrice": 26
+        },
+        {
+          "id": 21,
+          "quantity": 3,
+          "price": 20,
+          "title": "- Daal Masoor 500 grams",
+          "total": 60,
+          "discountPercentage": 4.81,
+          "discountedPrice": 57
+        },
+        {
+          "id": 2,
+          "quantity": 1,
+          "price": 899,
+          "title": "iphone X",
+          "total": 899,
+          "discountPercentage": 17.94,
+          "discountedPrice": 738
+        }
+      ],
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "total": 1062.3998,
+      "totalProducts": 3,
+      "discountedTotal": 118.6002,
+      "status": "completed",
+      "products": [
+        {
+          "id": 9,
+          "quantity": 1,
+          "price": 1099,
+          "title": "Infinix INBOOK",
+          "total": 989.1,
+          "discountPercentage": 10,
+          "discountedPrice": 109.9
+        },
+        {
+          "id": 26,
+          "quantity": 1,
+          "price": 41,
+          "title": "Plant Hanger For Home",
+          "total": 38.4047,
+          "discountPercentage": 6.33,
+          "discountedPrice": 2.5953000000000004
+        },
+        {
+          "id": 26,
+          "quantity": 1,
+          "price": 41,
+          "title": "Plant Hanger For Home",
+          "total": 34.8951,
+          "discountPercentage": 14.89,
+          "discountedPrice": 6.1049
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
